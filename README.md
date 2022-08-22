@@ -36,4 +36,12 @@
 * Polarimetric workstation
 * Excercise
 ### 6. Digital image classification
-*
+* Topic Guide
+* An Introduction to digital image classification
+* Digital image classification I
+* Digital image classification II
+* Digital image classification III
+* Semi Automatic Classification Manual
+* Semi Automatic Classification in QGIS- Create training set
+* Semi Automatic Classification in QGIS- Running classification
+* Semi Automatic Classification in QGIS- Accuracy Assessment
