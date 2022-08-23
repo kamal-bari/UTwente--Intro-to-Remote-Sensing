@@ -1,4 +1,16 @@
-# UTwente--Intro-to-Remote-Sensing
+# UTwente- Introduction to Remote Sensing and Earth Observation Course guide
+### This course was conducted by the faculty of ITC, University of Twente, The Netherlands. It's duration was from March 2021 to September 2021. I have taken assignments and final examinations, where I scored 6.99 out of 10. I have learnt the following topics of the course.
+
+### Learning Objectives
+At the end of this course, the students should be able to:
+* Understand and apply knowledge about electromagnetic (EM) radiation processes in the atmosphere (absorption, transmission and scattering) and Earth's surface (reflection, absorption, transmission and emission) to extract land cover information.
+* Translate geospatial questions into image characteristics and select the most suitable sensor data to extract information on the Earth's surface.
+* Apply techniques for optimum visualisation of remotely sensed imagery.
+* Choose and apply the appropriate geometric transformations of Earth Observation images to address specific spatial questions.
+* Apply appropriate radiometric image correction and enhancement operations to improve image analysis.
+* Apply pixel-based digital image classification to extract information on the Earth's surface.
+* Work independently in solving a problem, by integrating knowledge on the topics previously covered in the course.
+
 ## Course outline:
 0. Course Guide
 ### 1. Electromagnetic Radiation
